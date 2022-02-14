@@ -2,14 +2,14 @@ import 'config.dart';
 import 'package:get_it/get_it.dart';
 
 class Movie {
-  final String name;
-  final String language;
-  final bool isAdult;
-  final String description;
-  final String posterPath;
-  final String backdropPath;
-  final num rating;
-  final String releaseDate;
+  final String? name;
+  final String? language;
+  final bool? isAdult;
+  final String? description;
+  final String? posterPath;
+  final String? backdropPath;
+  final num? rating;
+  final String? releaseDate;
 
   Movie({
     required this.name,
