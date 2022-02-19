@@ -5,7 +5,7 @@ A new Flutter project.
 
 # Working demo
 
-
+<img src="https://github.com/geekyprawins/moviedb-app/blob/master/smoll.gif?raw=true" width=300 height=650>
 
 ## Getting Started
 
